@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeicJPG", "HeicJPG\HeicJPG.csproj", "{DB9D635A-7D20-4A58-BC3D-604AF2A7705C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB9D635A-7D20-4A58-BC3D-604AF2A7705C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9D635A-7D20-4A58-BC3D-604AF2A7705C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9D635A-7D20-4A58-BC3D-604AF2A7705C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9D635A-7D20-4A58-BC3D-604AF2A7705C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A38DD507-29A5-4FE5-9283-49E4B4E0A7F1}
+	EndGlobalSection
+EndGlobal
